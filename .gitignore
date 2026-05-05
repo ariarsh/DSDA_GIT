@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+conda-env/
+
+# Environment/secrets
+.env
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
